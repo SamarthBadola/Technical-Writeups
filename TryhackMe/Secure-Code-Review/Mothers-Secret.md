@@ -3,7 +3,7 @@
 - **Difficulty:** Easy
 - **Category:** Secure Code Review
 - **Time to complete:** About 90 minutes
-- **Tools used:** Burp Suite (target and Repeater), Firefox DevTools
+- **Tools used:** Burp Suite (target and Repeater), Chrome DevTools
 
 ---
 
